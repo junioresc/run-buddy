@@ -13,4 +13,4 @@ https://junioresc.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Junior Escobar
 
-# Run Buddy Inc.
+### ©️2019 Run Buddy, Inc
